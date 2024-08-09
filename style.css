@@ -1,21 +1,49 @@
-*{
+* {
     margin: 0;
     padding: 0;
 }
-header{
+
+header {
     display: flex;
     justify-content: space-between;
     align-items: center;
     background-color: #1f2937;
     padding: 70px;
 }
-header h1{
+
+header h1 {
     font-size: 24px;
     color: #f9faf8;
 }
-.header{
+
+.header {
     display: flex;
     gap: 30px;
     color: #e5e7eb;
     font-size: 18px;
+}
+
+.section-1 {
+    background-color: #1f2937;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 70px;
+}
+.hero-main-text{
+    font-size: 48px;
+    color: #f9faf8;
+}
+.hero-secondary-text{
+    font-size: 18px;
+    color: #e5e7eb;
+}
+.btn-section-1{
+    background-color: #3882f6;
+    width: 120px;
+    height: 30px;
+    border: none;
+    border-radius: 7px;
+    color: white;
+    margin-top: 10px;
 }
