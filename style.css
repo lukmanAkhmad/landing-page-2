@@ -89,24 +89,56 @@ header h1 {
     flex-direction: column;
     align-items: center;
 }
-.section-3{
+
+.section-3 {
     background-color: #e5e7eb;
     padding: 70px;
     display: flex;
     justify-content: center;
 }
-.container-section-3{
+
+.container-section-3 {
     width: 900px;
 }
-.para-section-3{
+
+.para-section-3 {
     font-size: 36px;
     font-style: italic;
     color: #1f2937;
     text-align: left;
     width: 940px;
-    
 }
-.para-writer{
+
+.para-writer {
     text-align: end;
     font-weight: bolder;
+}
+.section-4{
+    padding: 70px;
+    display: flex;
+    justify-content: center;
+}
+.container-section-4{
+    background-color: #3882f6;
+    display: flex;
+    align-items: center;
+    padding: 40px 100px 40px 100px;
+    gap: 70px;
+    border-radius: 5px;
+}
+.para-cta{
+    font-weight: bolder;
+    color: #e5e7eb;
+}
+.para-signup{
+    color: #e5e7eb;
+}
+.btn-section-4 {
+    background-color: #3882f6;
+    width: 120px;
+    height: 30px;
+    border: 1px white solid;
+    border-radius: 7px;
+    color: white;
+    font-weight: bold;
 }
