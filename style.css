@@ -34,6 +34,7 @@ header h1 {
 .hero-main-text {
     font-size: 48px;
     color: #f9faf8;
+    font-weight: bolder;
 }
 
 .hero-secondary-text {
