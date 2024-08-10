@@ -89,3 +89,24 @@ header h1 {
     flex-direction: column;
     align-items: center;
 }
+.section-3{
+    background-color: #e5e7eb;
+    padding: 70px;
+    display: flex;
+    justify-content: center;
+}
+.container-section-3{
+    width: 900px;
+}
+.para-section-3{
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+    text-align: left;
+    width: 940px;
+    
+}
+.para-writer{
+    text-align: end;
+    font-weight: bolder;
+}
