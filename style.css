@@ -8,7 +8,7 @@ header {
     justify-content: space-between;
     align-items: center;
     background-color: #1f2937;
-    padding: 30px;
+    padding: 16px 90px;
 }
 
 header h1 {
@@ -28,7 +28,7 @@ header h1 {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 70px;
+    padding: 16px 90px;
 }
 
 .hero-main-text {
@@ -54,7 +54,7 @@ header h1 {
 }
 
 .section-2 {
-    padding: 70px;
+    padding: 16px 90px;
 }
 
 .para-section-2 {
@@ -93,7 +93,7 @@ header h1 {
 
 .section-3 {
     background-color: #e5e7eb;
-    padding: 70px;
+    padding: 16px 90px;
     display: flex;
     justify-content: center;
 }
@@ -115,7 +115,7 @@ header h1 {
     font-weight: bolder;
 }
 .section-4{
-    padding: 70px;
+    padding: 16px 90px;
     display: flex;
     justify-content: center;
 }
